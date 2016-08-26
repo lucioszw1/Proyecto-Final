@@ -1,0 +1,80 @@
+ Random Tarjetas = new Random();
+                List<int> Amarillas = new List<int>();
+                List<int> Rojas = new List<int>();
+                int amarillaslocal = Tarjetas.Next(0, 100);
+                int rojaslocal = Tarjetas.Next(0, 100);
+                int amarillasVisitante = Tarjetas.Next(0, 100);
+                int rojasVisitante = Tarjetas.Next(0, 100);
+                Amarillas[0] = amarillaslocal;
+                Rojas[0] = rojaslocal;
+                Amarillas[1] = amarillasVisitante;
+                Rojas[1] = rojasVisitante;
+                int posamarilla = 460;
+                for (int i = 0; i < Amarillas.Count; i++)
+                {
+                    if (Amarillas[i] <= 10)
+                    {
+                        Amarillas[i] = 0;
+                    }
+                    if (Amarillas[i] > 10 && Amarillas[i] <= 20)
+                    {
+                        Amarillas[i] = 1;
+                    }
+                    if (Amarillas[i] > 20 && Amarillas[i] <= 30)
+                    {
+                        Amarillas[i] = 2;
+                    }
+                    if (Amarillas[i] > 30 && Amarillas[i] <= 50)
+                    {
+                        Amarillas[i] = 3;
+                    }
+                    if (Amarillas[i] > 50 && Amarillas[i] <= 70)
+                    {
+                        Amarillas[i] = 4;
+                    }
+                    if (Amarillas[i] > 70 && Amarillas[i] <= 85)
+                    {
+                        Amarillas[i] = 5;
+                    }
+                    if (Amarillas[i] > 85 && Amarillas[i] <= 100)
+                    {
+                        Amarillas[i] = 6;
+                    }
+                    for (int z = 0; z < Amarillas[i]; z++)
+                    {
+                        if (i == 0)
+                        {
+                             System.Windows.Forms.Label nombrejug = new System.Windows.Forms.Label();
+                             nombrejug.Location = new Point(430, pos);
+                    for (int r = 0; r < Local.Jugadores.Count; r++)
+                    {
+                        if (Local.Jugadores[r].ID < IDmin)
+                        {
+                            IDmin = Local.Jugadores[r].ID;
+                        }
+                        if (Local.Jugadores[r].ID > IDmax)
+                        {
+                            IDmax = Local.Jugadores[r].ID;
+                        }
+                    }
+                    if (IDmin != 99999 && IDmax != 0)
+                    {
+                        IDgol = Asignacion.Next(IDmin, IDmax);
+                        for (int q = 0; q < Local.Jugadores.Count; q++)
+                        {
+                            if (IDgol == Local.Jugadores[q].ID)
+                            {
+                                IDgol = q;
+                                break;
+                            }
+                        }
+                        nombrejug.Text = Local.Jugadores[IDgol].nombre + " " + Local.Jugadores[IDgol].apellido;
+                        this.Controls.Add(nombrejug);
+                        pos += 30;
+                        IDgol = 0;
+                        IDmin = 99999;
+                        IDmax = 0;
+                    }
+                        }
+                    }
+                }

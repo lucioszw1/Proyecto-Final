@@ -1,0 +1,97 @@
+Z:\Proyecto Final\Simulador\Simulador\obj\x86\Debug\Simulador.Form1.resources
+Z:\Proyecto Final\Simulador\Simulador\obj\x86\Debug\Simulador.Properties.Resources.resources
+Z:\Proyecto Final\Simulador\Simulador\obj\x86\Debug\Simulador.csproj.GenerateResource.Cache
+Z:\Proyecto Final\Simulador\Simulador\bin\Debug\Simulador.exe
+Z:\Proyecto Final\Simulador\Simulador\bin\Debug\Simulador.pdb
+Z:\Proyecto Final\Simulador\Simulador\obj\x86\Debug\Simulador.exe
+Z:\Proyecto Final\Simulador\Simulador\obj\x86\Debug\Simulador.pdb
+Z:\Proyecto Final\Simulador\Simulador\obj\x86\Debug\Simulador.csprojResolveAssemblyReference.cache
+Z:\Proyecto Final\Simulador\Simulador\obj\x86\Debug\Simulador.Form2.resources
+Z:\Proyecto Final\Simulador\Simulador\obj\x86\Debug\Simulador.Form3.resources
+C:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.exe
+C:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.pdb
+C:\Users\41665767\Downloads\Simulador\Simulador\bin\Debug\Simulador.exe
+C:\Users\41665767\Downloads\Simulador\Simulador\bin\Debug\Simulador.pdb
+C:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.csprojResolveAssemblyReference.cache
+C:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Form1.resources
+C:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Form2.resources
+C:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Form3.resources
+C:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Properties.Resources.resources
+C:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.csproj.GenerateResource.Cache
+C:\Users\41709606\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.exe
+C:\Users\41709606\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.pdb
+C:\Users\41709606\Desktop\Simulador\Simulador\bin\Debug\Simulador.exe
+C:\Users\41709606\Desktop\Simulador\Simulador\bin\Debug\Simulador.pdb
+C:\Users\41709606\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.csprojResolveAssemblyReference.cache
+C:\Users\41709606\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.Form1.resources
+C:\Users\41709606\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.Form2.resources
+C:\Users\41709606\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.Form3.resources
+C:\Users\41709606\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.Properties.Resources.resources
+C:\Users\41709606\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.csproj.GenerateResource.Cache
+D:\Users\41665569\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.exe
+D:\Users\41665569\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.pdb
+D:\Users\41665569\Downloads\Simulador\Simulador\bin\Debug\Simulador.exe
+D:\Users\41665569\Downloads\Simulador\Simulador\bin\Debug\Simulador.pdb
+D:\Users\41665569\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\Users\41665569\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Form1.resources
+D:\Users\41665569\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Form2.resources
+D:\Users\41665569\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Form3.resources
+D:\Users\41665569\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Properties.Resources.resources
+D:\Users\41665569\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.csproj.GenerateResource.Cache
+D:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.exe
+D:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.pdb
+D:\Users\41665767\Downloads\Simulador\Simulador\bin\Debug\Simulador.exe
+D:\Users\41665767\Downloads\Simulador\Simulador\bin\Debug\Simulador.pdb
+D:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Form1.resources
+D:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Form2.resources
+D:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Form3.resources
+D:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Properties.Resources.resources
+D:\Users\41665767\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.csproj.GenerateResource.Cache
+C:\Users\41665767\Downloads\Simulador\Simulador\bin\Debug\Simulador.exe.config
+Z:\Simulador\Simulador\bin\Debug\Simulador.exe.config
+Z:\Simulador\Simulador\obj\x86\Debug\Simulador.exe
+Z:\Simulador\Simulador\obj\x86\Debug\Simulador.pdb
+Z:\Simulador\Simulador\bin\Debug\Simulador.exe
+Z:\Simulador\Simulador\bin\Debug\Simulador.pdb
+Z:\Simulador\Simulador\obj\x86\Debug\Simulador.csprojResolveAssemblyReference.cache
+Z:\Simulador\Simulador\obj\x86\Debug\Simulador.Form1.resources
+Z:\Simulador\Simulador\obj\x86\Debug\Simulador.Form2.resources
+Z:\Simulador\Simulador\obj\x86\Debug\Simulador.Form3.resources
+Z:\Simulador\Simulador\obj\x86\Debug\Simulador.Properties.Resources.resources
+Z:\Simulador\Simulador\obj\x86\Debug\Simulador.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Nueva carpeta\Prog\Simulador\Simulador\bin\Debug\Simulador.exe.config
+C:\Users\Admin\Desktop\Nueva carpeta\Prog\Simulador\Simulador\obj\x86\Debug\Simulador.exe
+C:\Users\Admin\Desktop\Nueva carpeta\Prog\Simulador\Simulador\obj\x86\Debug\Simulador.pdb
+C:\Users\Admin\Desktop\Nueva carpeta\Prog\Simulador\Simulador\bin\Debug\Simulador.exe
+C:\Users\Admin\Desktop\Nueva carpeta\Prog\Simulador\Simulador\bin\Debug\Simulador.pdb
+C:\Users\Admin\Desktop\Nueva carpeta\Prog\Simulador\Simulador\obj\x86\Debug\Simulador.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Nueva carpeta\Prog\Simulador\Simulador\obj\x86\Debug\Simulador.Form1.resources
+C:\Users\Admin\Desktop\Nueva carpeta\Prog\Simulador\Simulador\obj\x86\Debug\Simulador.Form2.resources
+C:\Users\Admin\Desktop\Nueva carpeta\Prog\Simulador\Simulador\obj\x86\Debug\Simulador.Form3.resources
+C:\Users\Admin\Desktop\Nueva carpeta\Prog\Simulador\Simulador\obj\x86\Debug\Simulador.Properties.Resources.resources
+C:\Users\Admin\Desktop\Nueva carpeta\Prog\Simulador\Simulador\obj\x86\Debug\Simulador.csproj.GenerateResource.Cache
+D:\Users\41665767\Downloads\Simulador\Simulador\bin\Debug\Simulador.exe.config
+D:\Users\41665569\Downloads\Simulador\Simulador\bin\Debug\Simulador.exe.config
+D:\Users\41665569\Desktop\Simulador\Simulador\bin\Debug\Simulador.exe.config
+D:\Users\41665569\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.exe
+D:\Users\41665569\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.pdb
+D:\Users\41665569\Desktop\Simulador\Simulador\bin\Debug\Simulador.exe
+D:\Users\41665569\Desktop\Simulador\Simulador\bin\Debug\Simulador.pdb
+D:\Users\41665569\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\Users\41665569\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.Form1.resources
+D:\Users\41665569\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.Form2.resources
+D:\Users\41665569\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.Form3.resources
+D:\Users\41665569\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.Properties.Resources.resources
+D:\Users\41665569\Desktop\Simulador\Simulador\obj\x86\Debug\Simulador.csproj.GenerateResource.Cache
+D:\Users\41665569.ALMAGRO\Downloads\Simulador\Simulador\bin\Debug\Simulador.exe.config
+D:\Users\41665569.ALMAGRO\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.exe
+D:\Users\41665569.ALMAGRO\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.pdb
+D:\Users\41665569.ALMAGRO\Downloads\Simulador\Simulador\bin\Debug\Simulador.exe
+D:\Users\41665569.ALMAGRO\Downloads\Simulador\Simulador\bin\Debug\Simulador.pdb
+D:\Users\41665569.ALMAGRO\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\Users\41665569.ALMAGRO\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Form1.resources
+D:\Users\41665569.ALMAGRO\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Form2.resources
+D:\Users\41665569.ALMAGRO\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Form3.resources
+D:\Users\41665569.ALMAGRO\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.Properties.Resources.resources
+D:\Users\41665569.ALMAGRO\Downloads\Simulador\Simulador\obj\x86\Debug\Simulador.csproj.GenerateResource.Cache
